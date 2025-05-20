@@ -17,4 +17,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-Using [https://v3.tailwindcss.com/docs/utility-first](Tailwind CSS V3)
+Using [Tailwind CSS V3](https://v3.tailwindcss.com/docs/utility-first)
